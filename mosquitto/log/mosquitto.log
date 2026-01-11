@@ -1,0 +1,489 @@
+1768158321: mosquitto version 2.0.22 starting
+1768158321: Config loaded from /mosquitto/config/mosquitto.conf.
+1768158321: Opening ipv4 listen socket on port 1883.
+1768158321: Opening ipv6 listen socket on port 1883.
+1768158321: mosquitto version 2.0.22 running
+1768158516: New connection from 192.168.65.1:34765 on port 1883.
+1768158516: New client connected from 192.168.65.1:34765 as simulator-main (p2, c1, k5).
+1768158551: Client simulator-main closed its connection.
+1768158656: mosquitto version 2.0.22 terminating
+1768158656: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1768158657: mosquitto version 2.0.22 starting
+1768158657: Config loaded from /mosquitto/config/mosquitto.conf.
+1768158657: Opening ipv4 listen socket on port 1883.
+1768158657: Opening ipv6 listen socket on port 1883.
+1768158657: mosquitto version 2.0.22 running
+1768158678: mosquitto version 2.0.22 terminating
+1768158678: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1768158679: mosquitto version 2.0.22 starting
+1768158679: Config loaded from /mosquitto/config/mosquitto.conf.
+1768158679: Opening ipv4 listen socket on port 1883.
+1768158679: Opening ipv6 listen socket on port 1883.
+1768158679: mosquitto version 2.0.22 running
+1768158722: New connection from 142.251.38.91:35646 on port 1883.
+1768158722: New client connected from 142.251.38.91:35646 as ingestor-main (p2, c1, k5).
+1768158737: New connection from 142.251.38.91:48878 on port 1883.
+1768158737: New client connected from 142.251.38.91:48878 as simulator-main (p2, c1, k5).
+1768158756: Client ingestor-main closed its connection.
+1768158756: Client simulator-main closed its connection.
+1768158757: New connection from 142.251.38.91:19327 on port 1883.
+1768158757: New client connected from 142.251.38.91:19327 as ingestor-main (p2, c1, k5).
+1768158759: New connection from 142.251.38.91:44190 on port 1883.
+1768158759: New client connected from 142.251.38.91:44190 as simulator-main (p2, c1, k5).
+1768158788: Client ingestor-main closed its connection.
+1768158791: Client simulator-main closed its connection.
+1768160003: New connection from 142.251.38.91:40149 on port 1883.
+1768160003: New client connected from 142.251.38.91:40149 as simulator-main (p2, c1, k5).
+1768160008: New connection from 142.251.38.91:20351 on port 1883.
+1768160008: New client connected from 142.251.38.91:20351 as ingestor-main (p2, c1, k5).
+1768160480: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1768162275: Outgoing messages are being dropped for client ingestor-main.
+1768162281: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1768162720: New connection from 142.251.38.91:57236 on port 1883.
+1768162720: Client simulator-main already connected, closing old connection.
+1768162720: New client connected from 142.251.38.91:57236 as simulator-main (p2, c1, k5).
+1768162720: New connection from 142.251.38.91:28649 on port 1883.
+1768162720: Client ingestor-main already connected, closing old connection.
+1768162720: New client connected from 142.251.38.91:28649 as ingestor-main (p2, c1, k5).
+1768162721: New connection from 142.251.38.91:48656 on port 1883.
+1768162721: Client ingestor-main already connected, closing old connection.
+1768162721: New client connected from 142.251.38.91:48656 as ingestor-main (p2, c1, k5).
+1768162722: New connection from 142.251.38.91:55307 on port 1883.
+1768162722: Client ingestor-main already connected, closing old connection.
+1768162722: New client connected from 142.251.38.91:55307 as ingestor-main (p2, c1, k5).
+1768162723: New connection from 142.251.38.91:62740 on port 1883.
+1768162723: Client ingestor-main already connected, closing old connection.
+1768162723: New client connected from 142.251.38.91:62740 as ingestor-main (p2, c1, k5).
+1768162724: New connection from 142.251.38.91:25860 on port 1883.
+1768162724: Client ingestor-main already connected, closing old connection.
+1768162724: New client connected from 142.251.38.91:25860 as ingestor-main (p2, c1, k5).
+1768162725: New connection from 142.251.38.91:64088 on port 1883.
+1768162725: Client ingestor-main already connected, closing old connection.
+1768162725: New client connected from 142.251.38.91:64088 as ingestor-main (p2, c1, k5).
+1768162726: New connection from 142.251.38.91:49124 on port 1883.
+1768162726: Client ingestor-main already connected, closing old connection.
+1768162726: New client connected from 142.251.38.91:49124 as ingestor-main (p2, c1, k5).
+1768162727: New connection from 142.251.38.91:38987 on port 1883.
+1768162727: Client ingestor-main already connected, closing old connection.
+1768162727: New client connected from 142.251.38.91:38987 as ingestor-main (p2, c1, k5).
+1768162728: New connection from 142.251.38.91:51206 on port 1883.
+1768162728: Client ingestor-main already connected, closing old connection.
+1768162728: New client connected from 142.251.38.91:51206 as ingestor-main (p2, c1, k5).
+1768162729: New connection from 142.251.38.91:30954 on port 1883.
+1768162729: Client ingestor-main already connected, closing old connection.
+1768162729: New client connected from 142.251.38.91:30954 as ingestor-main (p2, c1, k5).
+1768162730: New connection from 142.251.38.91:25987 on port 1883.
+1768162730: Client ingestor-main already connected, closing old connection.
+1768162730: New client connected from 142.251.38.91:25987 as ingestor-main (p2, c1, k5).
+1768162731: New connection from 142.251.38.91:33532 on port 1883.
+1768162731: Client ingestor-main already connected, closing old connection.
+1768162731: New client connected from 142.251.38.91:33532 as ingestor-main (p2, c1, k5).
+1768162732: New connection from 142.251.38.91:43463 on port 1883.
+1768162732: Client ingestor-main already connected, closing old connection.
+1768162732: New client connected from 142.251.38.91:43463 as ingestor-main (p2, c1, k5).
+1768162733: New connection from 142.251.38.91:52757 on port 1883.
+1768162733: Client ingestor-main already connected, closing old connection.
+1768162733: New client connected from 142.251.38.91:52757 as ingestor-main (p2, c1, k5).
+1768162734: New connection from 142.251.38.91:63184 on port 1883.
+1768162734: Client ingestor-main already connected, closing old connection.
+1768162734: New client connected from 142.251.38.91:63184 as ingestor-main (p2, c1, k5).
+1768162735: New connection from 142.251.38.91:51616 on port 1883.
+1768162735: Client ingestor-main already connected, closing old connection.
+1768162735: New client connected from 142.251.38.91:51616 as ingestor-main (p2, c1, k5).
+1768162736: New connection from 142.251.38.91:35971 on port 1883.
+1768162736: Client ingestor-main already connected, closing old connection.
+1768162736: New client connected from 142.251.38.91:35971 as ingestor-main (p2, c1, k5).
+1768162737: New connection from 142.251.38.91:29120 on port 1883.
+1768162737: Client ingestor-main already connected, closing old connection.
+1768162737: New client connected from 142.251.38.91:29120 as ingestor-main (p2, c1, k5).
+1768162738: New connection from 142.251.38.91:45962 on port 1883.
+1768162738: Client ingestor-main already connected, closing old connection.
+1768162738: New client connected from 142.251.38.91:45962 as ingestor-main (p2, c1, k5).
+1768162739: New connection from 142.251.38.91:51996 on port 1883.
+1768162739: Client ingestor-main already connected, closing old connection.
+1768162739: New client connected from 142.251.38.91:51996 as ingestor-main (p2, c1, k5).
+1768162740: New connection from 142.251.38.91:39107 on port 1883.
+1768162740: Client ingestor-main already connected, closing old connection.
+1768162740: New client connected from 142.251.38.91:39107 as ingestor-main (p2, c1, k5).
+1768162741: New connection from 142.251.38.91:19607 on port 1883.
+1768162741: Client ingestor-main already connected, closing old connection.
+1768162741: New client connected from 142.251.38.91:19607 as ingestor-main (p2, c1, k5).
+1768162742: New connection from 142.251.38.91:54322 on port 1883.
+1768162742: Client ingestor-main already connected, closing old connection.
+1768162742: New client connected from 142.251.38.91:54322 as ingestor-main (p2, c1, k5).
+1768162743: New connection from 142.251.38.91:65529 on port 1883.
+1768162743: Client ingestor-main already connected, closing old connection.
+1768162743: New client connected from 142.251.38.91:65529 as ingestor-main (p2, c1, k5).
+1768162744: New connection from 142.251.38.91:50900 on port 1883.
+1768162744: Client ingestor-main already connected, closing old connection.
+1768162744: New client connected from 142.251.38.91:50900 as ingestor-main (p2, c1, k5).
+1768162745: New connection from 142.251.38.91:48811 on port 1883.
+1768162745: Client ingestor-main already connected, closing old connection.
+1768162745: New client connected from 142.251.38.91:48811 as ingestor-main (p2, c1, k5).
+1768162746: New connection from 142.251.38.91:17815 on port 1883.
+1768162746: Client ingestor-main already connected, closing old connection.
+1768162746: New client connected from 142.251.38.91:17815 as ingestor-main (p2, c1, k5).
+1768162747: New connection from 142.251.38.91:27307 on port 1883.
+1768162747: Client ingestor-main already connected, closing old connection.
+1768162747: New client connected from 142.251.38.91:27307 as ingestor-main (p2, c1, k5).
+1768162748: New connection from 142.251.38.91:58611 on port 1883.
+1768162748: Client ingestor-main already connected, closing old connection.
+1768162748: New client connected from 142.251.38.91:58611 as ingestor-main (p2, c1, k5).
+1768162749: New connection from 142.251.38.91:23733 on port 1883.
+1768162749: Client ingestor-main already connected, closing old connection.
+1768162749: New client connected from 142.251.38.91:23733 as ingestor-main (p2, c1, k5).
+1768162750: New connection from 142.251.38.91:18602 on port 1883.
+1768162750: Client ingestor-main already connected, closing old connection.
+1768162750: New client connected from 142.251.38.91:18602 as ingestor-main (p2, c1, k5).
+1768162751: New connection from 142.251.38.91:64038 on port 1883.
+1768162751: Client ingestor-main already connected, closing old connection.
+1768162751: New client connected from 142.251.38.91:64038 as ingestor-main (p2, c1, k5).
+1768162752: New connection from 142.251.38.91:27577 on port 1883.
+1768162752: Client ingestor-main already connected, closing old connection.
+1768162752: New client connected from 142.251.38.91:27577 as ingestor-main (p2, c1, k5).
+1768162754: New connection from 142.251.38.91:55958 on port 1883.
+1768162754: Client ingestor-main already connected, closing old connection.
+1768162754: New client connected from 142.251.38.91:55958 as ingestor-main (p2, c1, k5).
+1768162755: New connection from 142.251.38.91:63834 on port 1883.
+1768162755: Client ingestor-main already connected, closing old connection.
+1768162755: New client connected from 142.251.38.91:63834 as ingestor-main (p2, c1, k5).
+1768162756: New connection from 142.251.38.91:22249 on port 1883.
+1768162756: Client ingestor-main already connected, closing old connection.
+1768162756: New client connected from 142.251.38.91:22249 as ingestor-main (p2, c1, k5).
+1768162757: New connection from 142.251.38.91:42807 on port 1883.
+1768162757: Client ingestor-main already connected, closing old connection.
+1768162757: New client connected from 142.251.38.91:42807 as ingestor-main (p2, c1, k5).
+1768162758: New connection from 142.251.38.91:48141 on port 1883.
+1768162758: Client ingestor-main already connected, closing old connection.
+1768162758: New client connected from 142.251.38.91:48141 as ingestor-main (p2, c1, k5).
+1768162759: New connection from 142.251.38.91:64898 on port 1883.
+1768162759: Client ingestor-main already connected, closing old connection.
+1768162759: New client connected from 142.251.38.91:64898 as ingestor-main (p2, c1, k5).
+1768162760: New connection from 142.251.38.91:56553 on port 1883.
+1768162760: Client ingestor-main already connected, closing old connection.
+1768162760: New client connected from 142.251.38.91:56553 as ingestor-main (p2, c1, k5).
+1768162761: New connection from 142.251.38.91:62215 on port 1883.
+1768162761: Client ingestor-main already connected, closing old connection.
+1768162761: New client connected from 142.251.38.91:62215 as ingestor-main (p2, c1, k5).
+1768162762: New connection from 142.251.38.91:60831 on port 1883.
+1768162762: Client ingestor-main already connected, closing old connection.
+1768162762: New client connected from 142.251.38.91:60831 as ingestor-main (p2, c1, k5).
+1768162763: New connection from 142.251.38.91:24038 on port 1883.
+1768162763: Client ingestor-main already connected, closing old connection.
+1768162763: New client connected from 142.251.38.91:24038 as ingestor-main (p2, c1, k5).
+1768162764: New connection from 142.251.38.91:54198 on port 1883.
+1768162764: Client ingestor-main already connected, closing old connection.
+1768162764: New client connected from 142.251.38.91:54198 as ingestor-main (p2, c1, k5).
+1768162765: New connection from 142.251.38.91:18999 on port 1883.
+1768162765: Client ingestor-main already connected, closing old connection.
+1768162765: New client connected from 142.251.38.91:18999 as ingestor-main (p2, c1, k5).
+1768162766: New connection from 142.251.38.91:27244 on port 1883.
+1768162766: Client ingestor-main already connected, closing old connection.
+1768162766: New client connected from 142.251.38.91:27244 as ingestor-main (p2, c1, k5).
+1768162767: New connection from 142.251.38.91:18559 on port 1883.
+1768162767: Client ingestor-main already connected, closing old connection.
+1768162767: New client connected from 142.251.38.91:18559 as ingestor-main (p2, c1, k5).
+1768162768: New connection from 142.251.38.91:38167 on port 1883.
+1768162768: Client ingestor-main already connected, closing old connection.
+1768162768: New client connected from 142.251.38.91:38167 as ingestor-main (p2, c1, k5).
+1768162769: New connection from 142.251.38.91:38643 on port 1883.
+1768162769: Client ingestor-main already connected, closing old connection.
+1768162769: New client connected from 142.251.38.91:38643 as ingestor-main (p2, c1, k5).
+1768162770: New connection from 142.251.38.91:64428 on port 1883.
+1768162770: Client ingestor-main already connected, closing old connection.
+1768162770: New client connected from 142.251.38.91:64428 as ingestor-main (p2, c1, k5).
+1768162771: New connection from 142.251.38.91:45271 on port 1883.
+1768162771: Client ingestor-main already connected, closing old connection.
+1768162771: New client connected from 142.251.38.91:45271 as ingestor-main (p2, c1, k5).
+1768162772: New connection from 142.251.38.91:36042 on port 1883.
+1768162772: Client ingestor-main already connected, closing old connection.
+1768162772: New client connected from 142.251.38.91:36042 as ingestor-main (p2, c1, k5).
+1768162773: New connection from 142.251.38.91:49930 on port 1883.
+1768162773: Client ingestor-main already connected, closing old connection.
+1768162773: New client connected from 142.251.38.91:49930 as ingestor-main (p2, c1, k5).
+1768162774: New connection from 142.251.38.91:52724 on port 1883.
+1768162774: Client ingestor-main already connected, closing old connection.
+1768162774: New client connected from 142.251.38.91:52724 as ingestor-main (p2, c1, k5).
+1768162775: New connection from 142.251.38.91:26347 on port 1883.
+1768162775: Client ingestor-main already connected, closing old connection.
+1768162775: New client connected from 142.251.38.91:26347 as ingestor-main (p2, c1, k5).
+1768162776: New connection from 142.251.38.91:39013 on port 1883.
+1768162776: Client ingestor-main already connected, closing old connection.
+1768162776: New client connected from 142.251.38.91:39013 as ingestor-main (p2, c1, k5).
+1768162777: New connection from 142.251.38.91:18843 on port 1883.
+1768162777: Client ingestor-main already connected, closing old connection.
+1768162777: New client connected from 142.251.38.91:18843 as ingestor-main (p2, c1, k5).
+1768162778: New connection from 142.251.38.91:36341 on port 1883.
+1768162778: Client ingestor-main already connected, closing old connection.
+1768162778: New client connected from 142.251.38.91:36341 as ingestor-main (p2, c1, k5).
+1768162779: New connection from 142.251.38.91:43408 on port 1883.
+1768162779: Client ingestor-main already connected, closing old connection.
+1768162779: New client connected from 142.251.38.91:43408 as ingestor-main (p2, c1, k5).
+1768162780: New connection from 142.251.38.91:25719 on port 1883.
+1768162780: Client ingestor-main already connected, closing old connection.
+1768162780: New client connected from 142.251.38.91:25719 as ingestor-main (p2, c1, k5).
+1768162781: New connection from 142.251.38.91:39515 on port 1883.
+1768162781: Client ingestor-main already connected, closing old connection.
+1768162781: New client connected from 142.251.38.91:39515 as ingestor-main (p2, c1, k5).
+1768162782: New connection from 142.251.38.91:23694 on port 1883.
+1768162782: Client ingestor-main already connected, closing old connection.
+1768162782: New client connected from 142.251.38.91:23694 as ingestor-main (p2, c1, k5).
+1768162783: New connection from 142.251.38.91:31360 on port 1883.
+1768162783: Client ingestor-main already connected, closing old connection.
+1768162783: New client connected from 142.251.38.91:31360 as ingestor-main (p2, c1, k5).
+1768162784: New connection from 142.251.38.91:41546 on port 1883.
+1768162784: Client ingestor-main already connected, closing old connection.
+1768162784: New client connected from 142.251.38.91:41546 as ingestor-main (p2, c1, k5).
+1768162785: New connection from 142.251.38.91:40724 on port 1883.
+1768162785: New connection from 142.251.38.91:33736 on port 1883.
+1768162785: Client ingestor-main already connected, closing old connection.
+1768162785: New client connected from 142.251.38.91:40724 as ingestor-main (p2, c1, k5).
+1768162785: Client ingestor-main already connected, closing old connection.
+1768162785: New client connected from 142.251.38.91:33736 as ingestor-main (p2, c1, k5).
+1768162785: Client ingestor-main closed its connection.
+1768162786: New connection from 142.251.38.91:35763 on port 1883.
+1768162786: New connection from 142.251.38.91:60901 on port 1883.
+1768162786: New client connected from 142.251.38.91:60901 as ingestor-main (p2, c1, k5).
+1768162786: Client ingestor-main already connected, closing old connection.
+1768162786: New client connected from 142.251.38.91:35763 as ingestor-main (p2, c1, k5).
+1768162787: New connection from 142.251.38.91:39560 on port 1883.
+1768162787: Client ingestor-main already connected, closing old connection.
+1768162787: New client connected from 142.251.38.91:39560 as ingestor-main (p2, c1, k5).
+1768162788: New connection from 142.251.38.91:36947 on port 1883.
+1768162788: Client ingestor-main already connected, closing old connection.
+1768162788: New client connected from 142.251.38.91:36947 as ingestor-main (p2, c1, k5).
+1768162789: New connection from 142.251.38.91:16084 on port 1883.
+1768162789: Client ingestor-main already connected, closing old connection.
+1768162789: New client connected from 142.251.38.91:16084 as ingestor-main (p2, c1, k5).
+1768162790: New connection from 142.251.38.91:62078 on port 1883.
+1768162790: Client ingestor-main already connected, closing old connection.
+1768162790: New client connected from 142.251.38.91:62078 as ingestor-main (p2, c1, k5).
+1768162791: New connection from 142.251.38.91:38532 on port 1883.
+1768162791: Client ingestor-main already connected, closing old connection.
+1768162791: New client connected from 142.251.38.91:38532 as ingestor-main (p2, c1, k5).
+1768162793: New connection from 142.251.38.91:52295 on port 1883.
+1768162793: Client ingestor-main already connected, closing old connection.
+1768162793: New client connected from 142.251.38.91:52295 as ingestor-main (p2, c1, k5).
+1768162794: New connection from 142.251.38.91:63582 on port 1883.
+1768162794: Client ingestor-main already connected, closing old connection.
+1768162794: New client connected from 142.251.38.91:63582 as ingestor-main (p2, c1, k5).
+1768162795: New connection from 142.251.38.91:18983 on port 1883.
+1768162795: Client ingestor-main already connected, closing old connection.
+1768162795: New client connected from 142.251.38.91:18983 as ingestor-main (p2, c1, k5).
+1768162796: New connection from 142.251.38.91:64635 on port 1883.
+1768162796: Client ingestor-main already connected, closing old connection.
+1768162796: New client connected from 142.251.38.91:64635 as ingestor-main (p2, c1, k5).
+1768162797: New connection from 142.251.38.91:23917 on port 1883.
+1768162797: Client ingestor-main already connected, closing old connection.
+1768162797: New client connected from 142.251.38.91:23917 as ingestor-main (p2, c1, k5).
+1768162798: New connection from 142.251.38.91:40327 on port 1883.
+1768162798: Client ingestor-main already connected, closing old connection.
+1768162798: New client connected from 142.251.38.91:40327 as ingestor-main (p2, c1, k5).
+1768162799: New connection from 142.251.38.91:60940 on port 1883.
+1768162799: Client ingestor-main already connected, closing old connection.
+1768162799: New client connected from 142.251.38.91:60940 as ingestor-main (p2, c1, k5).
+1768162800: New connection from 142.251.38.91:32882 on port 1883.
+1768162800: Client ingestor-main already connected, closing old connection.
+1768162800: New client connected from 142.251.38.91:32882 as ingestor-main (p2, c1, k5).
+1768162801: New connection from 142.251.38.91:20719 on port 1883.
+1768162801: Client ingestor-main already connected, closing old connection.
+1768162801: New client connected from 142.251.38.91:20719 as ingestor-main (p2, c1, k5).
+1768162802: New connection from 142.251.38.91:38366 on port 1883.
+1768162802: Client ingestor-main already connected, closing old connection.
+1768162802: New client connected from 142.251.38.91:38366 as ingestor-main (p2, c1, k5).
+1768162803: New connection from 142.251.38.91:26590 on port 1883.
+1768162803: Client ingestor-main already connected, closing old connection.
+1768162803: New client connected from 142.251.38.91:26590 as ingestor-main (p2, c1, k5).
+1768162804: New connection from 142.251.38.91:39929 on port 1883.
+1768162804: Client ingestor-main already connected, closing old connection.
+1768162804: New client connected from 142.251.38.91:39929 as ingestor-main (p2, c1, k5).
+1768162805: New connection from 142.251.38.91:37983 on port 1883.
+1768162805: Client ingestor-main already connected, closing old connection.
+1768162805: New client connected from 142.251.38.91:37983 as ingestor-main (p2, c1, k5).
+1768162806: New connection from 142.251.38.91:31254 on port 1883.
+1768162806: Client ingestor-main already connected, closing old connection.
+1768162806: New client connected from 142.251.38.91:31254 as ingestor-main (p2, c1, k5).
+1768162807: New connection from 142.251.38.91:30824 on port 1883.
+1768162807: Client ingestor-main already connected, closing old connection.
+1768162807: New client connected from 142.251.38.91:30824 as ingestor-main (p2, c1, k5).
+1768162808: New connection from 142.251.38.91:17948 on port 1883.
+1768162808: Client ingestor-main already connected, closing old connection.
+1768162808: New client connected from 142.251.38.91:17948 as ingestor-main (p2, c1, k5).
+1768162809: New connection from 142.251.38.91:19483 on port 1883.
+1768162809: Client ingestor-main already connected, closing old connection.
+1768162809: New client connected from 142.251.38.91:19483 as ingestor-main (p2, c1, k5).
+1768162810: New connection from 142.251.38.91:48423 on port 1883.
+1768162810: Client ingestor-main already connected, closing old connection.
+1768162810: New client connected from 142.251.38.91:48423 as ingestor-main (p2, c1, k5).
+1768162811: New connection from 142.251.38.91:36934 on port 1883.
+1768162811: Client ingestor-main already connected, closing old connection.
+1768162811: New client connected from 142.251.38.91:36934 as ingestor-main (p2, c1, k5).
+1768162812: New connection from 142.251.38.91:18328 on port 1883.
+1768162812: Client ingestor-main already connected, closing old connection.
+1768162812: New client connected from 142.251.38.91:18328 as ingestor-main (p2, c1, k5).
+1768162813: New connection from 142.251.38.91:30393 on port 1883.
+1768162813: Client ingestor-main already connected, closing old connection.
+1768162813: New client connected from 142.251.38.91:30393 as ingestor-main (p2, c1, k5).
+1768162814: New connection from 142.251.38.91:50663 on port 1883.
+1768162814: Client ingestor-main already connected, closing old connection.
+1768162814: New client connected from 142.251.38.91:50663 as ingestor-main (p2, c1, k5).
+1768162815: New connection from 142.251.38.91:22165 on port 1883.
+1768162815: Client ingestor-main already connected, closing old connection.
+1768162815: New client connected from 142.251.38.91:22165 as ingestor-main (p2, c1, k5).
+1768162816: New connection from 142.251.38.91:20157 on port 1883.
+1768162816: Client ingestor-main already connected, closing old connection.
+1768162816: New client connected from 142.251.38.91:20157 as ingestor-main (p2, c1, k5).
+1768162817: New connection from 142.251.38.91:16031 on port 1883.
+1768162817: Client ingestor-main already connected, closing old connection.
+1768162817: New client connected from 142.251.38.91:16031 as ingestor-main (p2, c1, k5).
+1768162818: New connection from 142.251.38.91:49646 on port 1883.
+1768162818: Client ingestor-main already connected, closing old connection.
+1768162818: New client connected from 142.251.38.91:49646 as ingestor-main (p2, c1, k5).
+1768162819: New connection from 142.251.38.91:52401 on port 1883.
+1768162819: Client ingestor-main already connected, closing old connection.
+1768162819: New client connected from 142.251.38.91:52401 as ingestor-main (p2, c1, k5).
+1768162820: New connection from 142.251.38.91:58829 on port 1883.
+1768162820: Client ingestor-main already connected, closing old connection.
+1768162820: New client connected from 142.251.38.91:58829 as ingestor-main (p2, c1, k5).
+1768162821: New connection from 142.251.38.91:36516 on port 1883.
+1768162821: Client ingestor-main already connected, closing old connection.
+1768162821: New client connected from 142.251.38.91:36516 as ingestor-main (p2, c1, k5).
+1768162822: New connection from 142.251.38.91:56020 on port 1883.
+1768162822: Client ingestor-main already connected, closing old connection.
+1768162822: New client connected from 142.251.38.91:56020 as ingestor-main (p2, c1, k5).
+1768162823: New connection from 142.251.38.91:19520 on port 1883.
+1768162823: Client ingestor-main already connected, closing old connection.
+1768162823: New client connected from 142.251.38.91:19520 as ingestor-main (p2, c1, k5).
+1768162824: New connection from 142.251.38.91:26890 on port 1883.
+1768162824: Client ingestor-main already connected, closing old connection.
+1768162824: New client connected from 142.251.38.91:26890 as ingestor-main (p2, c1, k5).
+1768162825: New connection from 142.251.38.91:36914 on port 1883.
+1768162825: Client ingestor-main already connected, closing old connection.
+1768162825: New client connected from 142.251.38.91:36914 as ingestor-main (p2, c1, k5).
+1768162826: New connection from 142.251.38.91:25611 on port 1883.
+1768162826: Client ingestor-main already connected, closing old connection.
+1768162826: New client connected from 142.251.38.91:25611 as ingestor-main (p2, c1, k5).
+1768162827: New connection from 142.251.38.91:50443 on port 1883.
+1768162827: Client ingestor-main already connected, closing old connection.
+1768162827: New client connected from 142.251.38.91:50443 as ingestor-main (p2, c1, k5).
+1768162828: New connection from 142.251.38.91:50954 on port 1883.
+1768162828: Client ingestor-main already connected, closing old connection.
+1768162828: New client connected from 142.251.38.91:50954 as ingestor-main (p2, c1, k5).
+1768162829: New connection from 142.251.38.91:37249 on port 1883.
+1768162829: Client ingestor-main already connected, closing old connection.
+1768162829: New client connected from 142.251.38.91:37249 as ingestor-main (p2, c1, k5).
+1768162830: New connection from 142.251.38.91:58093 on port 1883.
+1768162830: Client ingestor-main already connected, closing old connection.
+1768162830: New client connected from 142.251.38.91:58093 as ingestor-main (p2, c1, k5).
+1768162831: New connection from 142.251.38.91:58487 on port 1883.
+1768162831: Client ingestor-main already connected, closing old connection.
+1768162831: New client connected from 142.251.38.91:58487 as ingestor-main (p2, c1, k5).
+1768162832: New connection from 142.251.38.91:30316 on port 1883.
+1768162832: Client ingestor-main already connected, closing old connection.
+1768162832: New client connected from 142.251.38.91:30316 as ingestor-main (p2, c1, k5).
+1768162833: New connection from 142.251.38.91:59739 on port 1883.
+1768162833: Client ingestor-main already connected, closing old connection.
+1768162833: New client connected from 142.251.38.91:59739 as ingestor-main (p2, c1, k5).
+1768162834: New connection from 142.251.38.91:42780 on port 1883.
+1768162834: Client ingestor-main already connected, closing old connection.
+1768162834: New client connected from 142.251.38.91:42780 as ingestor-main (p2, c1, k5).
+1768162835: New connection from 142.251.38.91:32803 on port 1883.
+1768162835: Client ingestor-main already connected, closing old connection.
+1768162835: New client connected from 142.251.38.91:32803 as ingestor-main (p2, c1, k5).
+1768162836: New connection from 142.251.38.91:37468 on port 1883.
+1768162836: Client ingestor-main already connected, closing old connection.
+1768162836: New client connected from 142.251.38.91:37468 as ingestor-main (p2, c1, k5).
+1768162837: New connection from 142.251.38.91:23947 on port 1883.
+1768162837: Client ingestor-main already connected, closing old connection.
+1768162837: New client connected from 142.251.38.91:23947 as ingestor-main (p2, c1, k5).
+1768162838: New connection from 142.251.38.91:26305 on port 1883.
+1768162838: Client ingestor-main already connected, closing old connection.
+1768162838: New client connected from 142.251.38.91:26305 as ingestor-main (p2, c1, k5).
+1768162839: New connection from 142.251.38.91:35402 on port 1883.
+1768162839: Client ingestor-main already connected, closing old connection.
+1768162839: New client connected from 142.251.38.91:35402 as ingestor-main (p2, c1, k5).
+1768162840: New connection from 142.251.38.91:39825 on port 1883.
+1768162840: Client ingestor-main already connected, closing old connection.
+1768162840: New client connected from 142.251.38.91:39825 as ingestor-main (p2, c1, k5).
+1768162841: New connection from 142.251.38.91:46937 on port 1883.
+1768162841: Client ingestor-main already connected, closing old connection.
+1768162841: New client connected from 142.251.38.91:46937 as ingestor-main (p2, c1, k5).
+1768162842: New connection from 142.251.38.91:61392 on port 1883.
+1768162842: Client ingestor-main already connected, closing old connection.
+1768162842: New client connected from 142.251.38.91:61392 as ingestor-main (p2, c1, k5).
+1768162843: New connection from 142.251.38.91:46129 on port 1883.
+1768162843: Client ingestor-main already connected, closing old connection.
+1768162843: New client connected from 142.251.38.91:46129 as ingestor-main (p2, c1, k5).
+1768162844: New connection from 142.251.38.91:17082 on port 1883.
+1768162844: Client ingestor-main already connected, closing old connection.
+1768162844: New client connected from 142.251.38.91:17082 as ingestor-main (p2, c1, k5).
+1768162845: New connection from 142.251.38.91:35287 on port 1883.
+1768162845: Client ingestor-main already connected, closing old connection.
+1768162845: New client connected from 142.251.38.91:35287 as ingestor-main (p2, c1, k5).
+1768162846: New connection from 142.251.38.91:22666 on port 1883.
+1768162846: Client ingestor-main already connected, closing old connection.
+1768162846: New client connected from 142.251.38.91:22666 as ingestor-main (p2, c1, k5).
+1768162847: New connection from 142.251.38.91:23806 on port 1883.
+1768162847: Client ingestor-main already connected, closing old connection.
+1768162847: New client connected from 142.251.38.91:23806 as ingestor-main (p2, c1, k5).
+1768162848: New connection from 142.251.38.91:64910 on port 1883.
+1768162848: Client ingestor-main already connected, closing old connection.
+1768162848: New client connected from 142.251.38.91:64910 as ingestor-main (p2, c1, k5).
+1768162849: New connection from 142.251.38.91:25680 on port 1883.
+1768162849: Client ingestor-main already connected, closing old connection.
+1768162849: New client connected from 142.251.38.91:25680 as ingestor-main (p2, c1, k5).
+1768162850: New connection from 142.251.38.91:42206 on port 1883.
+1768162850: Client ingestor-main already connected, closing old connection.
+1768162850: New client connected from 142.251.38.91:42206 as ingestor-main (p2, c1, k5).
+1768162851: New connection from 142.251.38.91:19697 on port 1883.
+1768162851: Client ingestor-main already connected, closing old connection.
+1768162851: New client connected from 142.251.38.91:19697 as ingestor-main (p2, c1, k5).
+1768162852: New connection from 142.251.38.91:56709 on port 1883.
+1768162852: Client ingestor-main already connected, closing old connection.
+1768162852: New client connected from 142.251.38.91:56709 as ingestor-main (p2, c1, k5).
+1768162853: New connection from 142.251.38.91:63953 on port 1883.
+1768162853: Client ingestor-main already connected, closing old connection.
+1768162853: New client connected from 142.251.38.91:63953 as ingestor-main (p2, c1, k5).
+1768162854: New connection from 142.251.38.91:36340 on port 1883.
+1768162854: Client ingestor-main already connected, closing old connection.
+1768162854: New client connected from 142.251.38.91:36340 as ingestor-main (p2, c1, k5).
+1768162855: New connection from 142.251.38.91:47848 on port 1883.
+1768162855: Client ingestor-main already connected, closing old connection.
+1768162855: New client connected from 142.251.38.91:47848 as ingestor-main (p2, c1, k5).
+1768162856: New connection from 142.251.38.91:29409 on port 1883.
+1768162856: Client ingestor-main already connected, closing old connection.
+1768162856: New client connected from 142.251.38.91:29409 as ingestor-main (p2, c1, k5).
+1768162857: New connection from 142.251.38.91:22163 on port 1883.
+1768162857: Client ingestor-main already connected, closing old connection.
+1768162857: New client connected from 142.251.38.91:22163 as ingestor-main (p2, c1, k5).
+1768162858: Client simulator-main closed its connection.
+1768162858: Client ingestor-main closed its connection.
+1768162862: New connection from 142.251.38.91:59069 on port 1883.
+1768162862: New client connected from 142.251.38.91:59069 as simulator-main (p2, c1, k5).
+1768162863: New connection from 142.251.38.91:33224 on port 1883.
+1768162863: New client connected from 142.251.38.91:33224 as ingestor-main (p2, c1, k5).
+1768162882: Outgoing messages are being dropped for client ingestor-main.
+1768162901: Client simulator-main has exceeded timeout, disconnecting.
+1768162901: Client ingestor-main has exceeded timeout, disconnecting.
+1768162904: New connection from 142.251.38.91:33363 on port 1883.
+1768162904: New connection from 142.251.38.91:29867 on port 1883.
+1768162904: New connection from 142.251.38.91:32688 on port 1883.
+1768162904: New client connected from 142.251.38.91:33363 as ingestor-main (p2, c1, k5).
+1768162904: Client ingestor-main already connected, closing old connection.
+1768162904: New client connected from 142.251.38.91:29867 as ingestor-main (p2, c1, k5).
+1768162904: Client ingestor-main already connected, closing old connection.
+1768162904: New client connected from 142.251.38.91:32688 as ingestor-main (p2, c1, k5).
+1768162904: Client ingestor-main closed its connection.
+1768162904: New connection from 142.251.38.91:45525 on port 1883.
+1768162904: New client connected from 142.251.38.91:45525 as ingestor-main (p2, c1, k5).
+1768162904: Client ingestor-main closed its connection.
+1768162904: New connection from 142.251.38.91:41216 on port 1883.
+1768162904: New client connected from 142.251.38.91:41216 as ingestor-main (p2, c1, k5).
+1768163144: Client ingestor-main closed its connection.
+1768163147: New connection from 142.251.38.91:47094 on port 1883.
+1768163147: New client connected from 142.251.38.91:47094 as simulator-main (p2, c1, k5).
+1768163147: New connection from 142.251.38.91:27798 on port 1883.
+1768163147: New client connected from 142.251.38.91:27798 as ingestor-main (p2, c1, k5).
+1768163729: Outgoing messages are being dropped for client ingestor-main.
+1768164082: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1768165883: Saving in-memory database to /mosquitto/data//mosquitto.db.
