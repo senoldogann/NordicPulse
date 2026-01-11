@@ -36,8 +36,12 @@ yarn-error.log*
 *.swo
 .agent/
 .gemini/
-agent/
-rules/
-docs/
+
+# Project Docs
+!docs/
+!docs/screenshots/
+!docs/screenshots/*.png
+!docs/screenshots/*.webp
+
 # Docker
 docker-compose.override.yml
